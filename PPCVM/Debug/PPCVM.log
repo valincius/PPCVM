@@ -1,0 +1,22 @@
+﻿  vm.cpp
+c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\vm.cpp(24): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\vm.cpp(47): warning C4244: '+=': conversion from 'uint64_t' to 'int16_t', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\vm.cpp(59): warning C4244: '+=': conversion from 'uint64_t' to 'int16_t', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\vm.cpp(70): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\vm.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\vm.cpp(72): warning C4018: '>': signed/unsigned mismatch
+c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\vm.cpp(79): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\vm.cpp(80): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned long', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\main.cpp(7): warning C4477: 'printf' : format string '%08X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'uint64_t'
+  c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\main.cpp(7): note: consider using '%llX' in the format string
+  c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\main.cpp(7): note: consider using '%I64X' in the format string
+c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\main.cpp(12): warning C4477: 'printf' : format string '%08X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'uint64_t'
+  c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\main.cpp(12): note: consider using '%llX' in the format string
+  c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\main.cpp(12): note: consider using '%I64X' in the format string
+c:\users\john\documents\visual studio 2015\projects\ppcvm\ppcvm\main.cpp(48): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+  Generating Code...
+  PPCVM.vcxproj -> C:\Users\John\Documents\Visual Studio 2015\Projects\PPCVM\Debug\PPCVM.exe
+  PPCVM.vcxproj -> C:\Users\John\Documents\Visual Studio 2015\Projects\PPCVM\Debug\PPCVM.pdb (Partial PDB)
